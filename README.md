@@ -19,7 +19,7 @@ The project follows a **Business Requirement Document (BRD)** and demonstrates h
 ---
 
 ## Project Structure
-# Store Database Management System – Analytical Reporting (Phase 2)
+# Store Database Management System – Analytical Reporting 
 
 ## Project Overview
 This project focuses on building **analytical and reporting capabilities** on top of a structured retail store database.  
@@ -177,3 +177,4 @@ It demonstrates the ability to:
 Engineering Student | Aspiring Data Analyst / Data Scientist  
 
 ---
+
